@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metoder opgave 4", "Metoder opgave 4\Metoder opgave 4.csproj", "{BBA0FE59-A991-4B22-93EF-54673F0C6072}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBA0FE59-A991-4B22-93EF-54673F0C6072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBA0FE59-A991-4B22-93EF-54673F0C6072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBA0FE59-A991-4B22-93EF-54673F0C6072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBA0FE59-A991-4B22-93EF-54673F0C6072}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {072C30B0-676D-498A-AF38-A73EBD208712}
+	EndGlobalSection
+EndGlobal
